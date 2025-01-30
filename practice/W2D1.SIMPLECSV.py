@@ -30,6 +30,7 @@ with open ("simple.csv") as csvfile:
         
         print(f"{name:10} {number:10} {color:10}")
 ##disconnected from file
+print("-------------------------------------------")
 print(f"TOTAL RECORDS: {total_records}\n")
 
 
